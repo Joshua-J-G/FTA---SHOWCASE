@@ -1,3 +1,4 @@
 .vs/
 build/
 Library/openssl-3.5.0/test/
+Library/openssl-3.5.0/doc/
