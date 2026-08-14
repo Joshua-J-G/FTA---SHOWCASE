@@ -30,6 +30,10 @@ Anyway i hope you enjoy looking through the code. some of which is messier than 
 
 
 
+note i have added prevention from detecting your own computer. running 2 instances of the app on the same device will not allow discovery to work. as i deliberately ignore packets with that pcs ip. for the demo to work you need 2 windows machines on the same network
+
+
+
 Thank You 
 
 Joshua Gessner
